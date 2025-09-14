@@ -1,0 +1,17 @@
+# Core scientific stack
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
+
+# Jupyter support
+jupyter
+notebook
+
+# Utility
+pathlib
+glob2
+
+# Trend analysis
+pymannkendall
